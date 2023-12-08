@@ -24,3 +24,13 @@ print("Mininum number using a recursion is", recursion.computeMin(nums,0, nums[0
 str= "CAT"
 loops.reverse(str)
 recursion.reverse(str, len(str))
+
+
+
+
+
+a = input("Enter 7 numbers separated by a space:")
+a = input("Enter the index:")
+a = input("Enter the size of the list that will be search:")
+#print("Target found at index ... ", loops.search(a, first, size, target, i, found))
+#print("Target found at index ... ", recursion.search(a, first, size, target, i, found))
